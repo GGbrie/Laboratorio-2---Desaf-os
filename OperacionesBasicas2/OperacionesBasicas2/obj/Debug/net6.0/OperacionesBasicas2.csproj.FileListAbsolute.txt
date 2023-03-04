@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Programacion I -- 2023\OperacionesBasicas2\OperacionesBasicas2\obj\Debug\net6.0\OperacionesBasicas2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programacion I -- 2023\OperacionesBasicas2\OperacionesBasicas2\obj\Debug\net6.0\OperacionesBasicas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programacion I -- 2023\OperacionesBasicas2\OperacionesBasicas2\obj\Debug\net6.0\OperacionesBasicas2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programacion I -- 2023\OperacionesBasicas2\OperacionesBasicas2\obj\Debug\net6.0\OperacionesBasicas2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programacion I -- 2023\OperacionesBasicas2\OperacionesBasicas2\obj\Debug\net6.0\OperacionesBasicas2.csproj.CoreCompileInputs.cache
